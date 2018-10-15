@@ -1,7 +1,7 @@
 gunicorn==18.0
 wsgiref==0.1.2
 tyler>=0.1.6
-
+django==1.9.10
 # memcacheify
-pylibmc==1.2.3
-django-heroku-memcacheify==0.8
+pylibmc
+django-heroku-memcacheify
